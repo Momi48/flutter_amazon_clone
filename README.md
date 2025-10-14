@@ -71,6 +71,10 @@ Client: Flutter, Provider
   <img src="https://github.com/user-attachments/assets/37952b33-a40b-428d-a42d-7e17705e1965" width="45%" />
   <img src="https://github.com/user-attachments/assets/422da4e4-45e4-4db7-981b-94bb72f93f05" width="45%" />
 
+  ## Order Placed 
+  <img width="362" height="673" alt="image" src="https://github.com/user-attachments/assets/7c79ce8c-a73e-4c1b-a4e0-4fb1829fef35" />
+
+
 </div>
 
 
