@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 
-String uri = 'https://flutteramazonclonelive.vercel.app/:8000';
+String uri = 'https://flutteramazonclonelive.vercel.app/';
 class GlobalVariables {
   // COLORS
   static const appBarGradient = LinearGradient(
